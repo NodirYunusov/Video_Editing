@@ -6,6 +6,5 @@ python video_editing1.py --video_path "D:\Projects\video\unprocessed\2.mp4" --sa
 3) --save_path is a path of my output video
 
 ### Please Pay Attention. I am sharing a link which leads you to my drive where I saved both unprocessed and edited (output) video. Feel free to visit!
-### Folder name is K_POP_Dancers
 
 https://drive.google.com/drive/folders/1ak9Vvbdt6u2xDCXzBhmHl1LL9IbGeqUj?usp=drive_link
