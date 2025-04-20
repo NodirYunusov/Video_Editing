@@ -1,4 +1,5 @@
 ### Command I run on anaconda prompt:
+
 python video_editing1.py --video_path "D:\Projects\video\unprocessed\2.mp4" --save_path "D:\Projects\video\1_video\output_video\output.mp4"
 
 1) video_editing1.py - is my code
