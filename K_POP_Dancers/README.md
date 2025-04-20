@@ -8,3 +8,5 @@ python video_editing1.py --video_path "D:\Projects\video\unprocessed\2.mp4" --sa
 ### Please Pay Attention. I am sharing a link which leads you to my drive where I saved both unprocessed and edited (output) video. Feel free to visit!
 
 https://drive.google.com/drive/folders/1ak9Vvbdt6u2xDCXzBhmHl1LL9IbGeqUj?usp=drive_link
+
+Model is specialized to detect the object even they leave and re-enter into video. Model gives certain id to an object and remembers it. persist = True
