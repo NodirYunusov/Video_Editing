@@ -4,4 +4,4 @@ blur.py and Real Time Blurring - are my codes
 --video_path - is where my unprocessed file located
 --save_path is a path of my output video
 
-# Here I used yolov8n which is smallest among YOLO model in order to perform the task easily. Due to nano version there are some lack especially in Face Blurring. So, if better equipmen is provided better results can be achieved.
+# Here I used yolov8n which is smallest among YOLO model in order to perform the task easily. Due to nano version there are some lacks and lower precision especially in Face Blurring. So, if better equipments is provided better results can be achieved.
